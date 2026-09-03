@@ -5,150 +5,115 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=180&section=header&text=Harshavardhan%20Paluri&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Flutter%20%26%20React%20Native&descAlignY=55&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=190&section=header&text=Harshavardhan%20Paluri&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Flutter%20%26%20React%20Native&descAlignY=58&descSize=16" width="100%" />
 
-<img src="https://github.com/harsha-hk.png" width="130" style="border-radius:50%;" />
+<br/>
 
-### Building practical, scalable web and mobile applications with modern JavaScript technologies.
+<img src="https://github.com/harsha-hk.png" width="120" style="border-radius:50%;border:3px solid #667eea;" />
 
-📍 Vizianagaram, Andhra Pradesh, India&nbsp;&nbsp;·&nbsp;&nbsp;🎓 B.Tech CSE, 2026
+<h3>Building practical, scalable web and mobile applications with modern JavaScript technologies.</h3>
 
-<img src="https://komarev.com/ghpvc/?username=harsha-hk&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile views" />
+📍 Vizianagaram, Andhra Pradesh, India &nbsp;|&nbsp; 🎓 B.Tech CSE, 2026 &nbsp;|&nbsp; 💼 Open to Work
+
+<a href="INSERT_YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:paluriharshavardhan4444@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/harsha-hk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
----
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="INSERT_YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:paluriharshavardhan4444@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/harsha-hk">
-    <img src="https://img.shields.io/badge/GitHub-harsha--hk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
+<br/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-**Frontend & Mobile**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,js,ts,html,css&theme=dark" />
-
-**Backend & APIs**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" />
-
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
-
-**Tools & Deployment**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,reactnative,tailwind,js,ts,html,css,nodejs,express,nestjs,mongodb,git,github,postman,vercel,vscode&theme=dark&perline=9" />
 </div>
+
+<br/>
+
+<table width="100%">
+<tr><th align="left" width="20%">Category</th><th align="left">Stack</th></tr>
+<tr><td><b>Frontend</b></td><td>React.js · Next.js · Flutter · React Native · Tailwind CSS</td></tr>
+<tr><td><b>Languages</b></td><td>JavaScript · TypeScript · HTML5 · CSS3</td></tr>
+<tr><td><b>Backend</b></td><td>Node.js · Express.js · NestJS · REST APIs</td></tr>
+<tr><td><b>Database</b></td><td>MongoDB</td></tr>
+<tr><td><b>Tools</b></td><td>Git · GitHub · Postman · Vercel · VS Code</td></tr>
+</table>
 
 ---
 
 ## 💼 Experience
 
-**MERN Stack Developer & Mobile App Developer** — Dilshaj Infotech
-<br/>
-*Visakhapatnam, India · Nov 2025 – Aug 2026*
-
-Worked across web and mobile products using **Next.js, Flutter, Node.js, Express.js, MongoDB, and NestJS**, contributing to UI development, REST API integration, debugging, and production applications.
+> **MERN Stack Developer & Mobile App Developer** — Dilshaj Infotech
+> Visakhapatnam, India · Nov 2025 – Aug 2026
+>
+> Worked across web and mobile products using **Next.js, Flutter, Node.js, Express.js, MongoDB, and NestJS** — contributing to UI development, REST API integration, debugging, and production applications.
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
-
-**[Dilshaj Infotech — Company Website](https://dilshajinfotech.tech)**
-<br/>Responsive company website focused on modern UI and performance.
-<br/><code>Next.js</code> <code>Tailwind CSS</code>
-
+<td width="50%" valign="top">
+<h4><a href="https://dilshajinfotech.tech">Dilshaj Infotech — Company Website</a></h4>
+Responsive company website focused on modern UI and performance.
+<br/><br/>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </td>
-<td width="50%">
-
-**EduProva**
-<br/>AI-powered learning platform · 35+ UI screens · 4 core Flutter modules with REST APIs.
-<br/><code>Next.js</code> <code>Flutter</code> <code>Node.js</code> <code>MongoDB</code> <code>NestJS</code>
-
+<td width="50%" valign="top">
+<h4>EduProva</h4>
+AI-powered learning platform — 35+ UI screens, 4 core Flutter modules integrated with REST APIs.
+<br/><br/>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-**DWN — News Platform**
-<br/>Led development as Project Lead for a web + mobile news platform.
-<br/><code>Next.js</code> <code>Flutter</code> <code>Node.js</code> <code>MongoDB</code>
-
+<td width="50%" valign="top">
+<h4>DWN — News Platform</h4>
+Led development as <b>Project Lead</b> for a web + mobile news platform.
+<br/><br/>
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </td>
-<td width="50%">
-
-**LearnFlux**
-<br/>AI-powered educational app with PDF downloads and YouTube integration.
-<br/><code>React Native</code> <code>Expo</code>
-
+<td width="50%" valign="top">
+<h4>LearnFlux</h4>
+AI-powered educational app with PDF downloads and YouTube integration.
+<br/><br/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Expo-000?style=flat-square&logo=expo&logoColor=white"/>
 </td>
 </tr>
 <tr>
-<td width="50%" colspan="2">
-
-**CareerTrackly**
-<br/>Smart job application tracker with a 5-stage pipeline, dashboard, resume versioning, dark mode.
-<br/><code>Flutter</code> <code>Dart</code>
-
+<td colspan="2" valign="top">
+<h4>CareerTrackly</h4>
+Smart job application tracker — 5-stage pipeline, dashboard, resume versioning, dark mode.
+<br/><br/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 </td>
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=harsha-hk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-<img height="165" src="https://streak-stats.demolab.com?user=harsha-hk&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-hk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-</div>
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/harsha-hk/harsha-hk/output/github-contribution-grid-snake.svg" width="100%" />
-
+<img src="https://streak-stats.demolab.com?user=harsha-hk&theme=tokyonight&hide_border=true&cache_seconds=3600" />
 </div>
 
 ---
 
 ## 🎓 Education
 
-**B.Tech — Raghu Engineering College**
-<br/>2022 – 2026 · GPA: 8.6 / 10.0
+<table width="100%">
+<tr><td><b>B.Tech, Computer Science</b><br/>Raghu Engineering College</td><td align="right">2022 – 2026<br/>GPA: 8.6 / 10.0</td></tr>
+</table>
 
 ---
 
 <div align="center">
 
-### 💡 Open to opportunities as a Full Stack, Frontend, Flutter, or React Native Developer
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=for-the-badge" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer" width="100%" />
+<sub>Full Stack · Frontend · Flutter · React Native Developer</sub>
 
 </div>
