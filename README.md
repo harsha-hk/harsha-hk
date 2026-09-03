@@ -5,17 +5,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=190&section=header&text=Harshavardhan%20Paluri&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Flutter%20%26%20React%20Native&descAlignY=58&descSize=16" width="100%" />
-
-<br/>
-
 <img src="https://github.com/harsha-hk.png" width="120" style="border-radius:50%;border:3px solid #667eea;" />
 
 <h3>Building practical, scalable web and mobile applications with modern JavaScript technologies.</h3>
 
 📍 Vizianagaram, Andhra Pradesh, India &nbsp;|&nbsp; 🎓 B.Tech CSE, 2026 &nbsp;|&nbsp; 💼 Open to Work
 
-<a href="INSERT_YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/harsha-vardhan-paluri-61b565277/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:paluriharshavardhan4444@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/harsha-hk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
