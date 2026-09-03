@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Harshavardhan%20Paluri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Flutter%20%26%20React%20Native&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=180&section=header&text=Harshavardhan%20Paluri&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Flutter%20%26%20React%20Native&descAlignY=55&descSize=16" width="100%" />
 
 <img src="https://github.com/harsha-hk.png" width="130" style="border-radius:50%;" />
 
@@ -121,24 +121,18 @@ Worked across web and mobile products using **Next.js, Flutter, Node.js, Express
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=harsha-hk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=harsha-hk&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=harsha-hk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+<img height="165" src="https://streak-stats.demolab.com?user=harsha-hk&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-hk&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=harsha-hk&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-hk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsha-hk&theme=tokyo-night&hide_border=true" width="100%" />
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/harsha-hk/harsha-hk/output/github-contribution-grid-snake.svg" width="100%" />
 
 </div>
 
@@ -155,6 +149,6 @@ Worked across web and mobile products using **Next.js, Flutter, Node.js, Express
 
 ### 💡 Open to opportunities as a Full Stack, Frontend, Flutter, or React Native Developer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer" width="100%" />
 
 </div>
