@@ -41,7 +41,7 @@
 ## 💼 Experience
 
 > **MERN Stack Developer & Mobile App Developer** — Dilshaj Infotech
-> Visakhapatnam, India · Nov 2025 – Aug 2026
+> Visakhapatnam, India · Nov 2025 – Nov 2026
 >
 > Worked across web and mobile products using **Next.js, Flutter, Node.js, Express.js, MongoDB, and NestJS** — contributing to UI development, REST API integration, debugging, and production applications.
 
